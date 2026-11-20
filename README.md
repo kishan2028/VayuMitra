@@ -7,7 +7,6 @@ daily routines, indoor air quality hacks and sustainable alternatives, and shows
 the direct impact of every choice, worked out by fixed formulas from cited
 factors. Generative AI explains the plan; the figures come from the engine.
 
-Live: <https://saaf-saans.seriouss.workers.dev>
 
 ## Chosen Vertical
 
