@@ -1,4 +1,4 @@
-# Saaf Saans
+# Saaf Saans (Clear for a Full Day ) Project Title with Clear Day
 
 **Saaf Saans** ("clean breath") is a GenAI-powered assistant that helps families
 and communities live through severe winter smog. You tell it where you live and
